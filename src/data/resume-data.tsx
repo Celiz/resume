@@ -86,7 +86,7 @@ export const RESUME_DATA = {
       start: "Octubre 2023",
       end: "Actualidad",
       description:
-        "Creacion de app mobile,desarrollo de nuevas caracteristicas, mantenimiento de la aplicacion, trabajo en equipo. Tecnologias: React, TypeScript, Ionic",
+        "Creacion de app mobile,desarrollo de nuevas caracteristicas, mantenimiento de la aplicacion, trabajo en equipo. Tecnologias: React, TypeScript, Ionic, SCSS",
     }
     
   ],
