@@ -78,6 +78,16 @@ export const RESUME_DATA = {
         "Implemetacion de nuevas caracteristicas, trabajo en equipo. Tecnologias: React, TypeScript, Strapi, SCSS",
     },
     {
+      company: "DY/DX BOT",
+      link: "",
+      badges: ["Remoto"],
+      title: "Junior Backend Developer",
+      logo: ConsultlyLogo,
+      start: "Febrero 2024",
+      end: "Marzo 2024",
+      description:"Bot de uso interno que se encargaba de arbitrar tasas de interés de diferentes protocolos DeFi en redes EVM y Cosmos. Tecnologias: Fastify, Ethers.js v5 y v6, Smart contracts (EVM y Cosmos)",
+    },
+    {
       company: "Tranqui",
       link: "https://tranqui.mdp.edu.ar/",
       badges: ["Presencial"],
@@ -87,16 +97,6 @@ export const RESUME_DATA = {
       end: "Actualidad",
       description:"Creacion de app mobile,desarrollo de nuevas caracteristicas, mantenimiento de la aplicacion, trabajo en equipo. Tecnologias: React, TypeScript, Ionic, SCSS",
     },
-    {
-      company: "DY/DX BOT",
-      link: "",
-      badges: ["Remoto"],
-      title: "Junior Backend Developer",
-      logo: ConsultlyLogo,
-      start: "Febrero 2024",
-      end: "Marzo 2024",
-      description:"Bot de uso interno que se encargaba de arbitrar tasas de interés de diferentes protocolos DeFi en redes EVM y Cosmos. Tecnologias: Fastify, Ethers.js v5 y v6, Smart contracts (EVM y Cosmos)",
-    }
     
   ],
   skills: [
