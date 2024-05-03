@@ -56,17 +56,6 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "FinGuru",
-      link: "http://cursos-staging.fin.guru/es",
-      badges: ["Remoto"],
-      title: "Junior Full Stack Developer",
-      logo: MonitoLogo,
-      start: "Marzo 2024",
-      end: "Mayo 2024",
-      description:
-        "Implemetacion de nuevas caracteristicas, trabajo en equipo. Tecnologias: React, TypeScript, Strapi",
-    },
-    {
       company: "TapWise",
       link: "https://tapwise.tdm.ar/",
       badges: ["Remoto"],
@@ -76,6 +65,17 @@ export const RESUME_DATA = {
       end: "Actualidad",
       description:
         "Creacion de tienda con Hydrogen , aplicacion para mobile en ionic, implemetacion de nuevas caracteristicas. Tecnologias:  Hydrogen, TypeScript, Shopify, Ionic",
+    },
+    {
+      company: "FinGuru",
+      link: "http://cursos-staging.fin.guru/es",
+      badges: ["Remoto"],
+      title: "Junior Full Stack Developer",
+      logo: MonitoLogo,
+      start: "Marzo 2024",
+      end: "Mayo 2024",
+      description:
+        "Implemetacion de nuevas caracteristicas, trabajo en equipo. Tecnologias: React, TypeScript, Strapi",
     },
     {
       company: "Tranqui",
