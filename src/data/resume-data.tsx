@@ -60,7 +60,7 @@ export const RESUME_DATA = {
       link: "http://cursos-staging.fin.guru/es",
       badges: ["Remote"],
       title: "Junior Full Stack Developer",
-      logo: ParabolLogo,
+      logo: MonitoLogo,
       start: "Marzo 2024",
       end: "Mayo 2024",
       description:
