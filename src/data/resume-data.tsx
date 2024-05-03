@@ -64,7 +64,7 @@ export const RESUME_DATA = {
       start: "Marzo 2024",
       end: "Actualidad",
       description:
-        "Creacion de tienda con Hydrogen , aplicacion para mobile en ionic, implemetacion de nuevas caracteristicas. Tecnologias:  Hydrogen, TypeScript, Shopify, Ionic",
+        "Creacion de tienda con Hydrogen , aplicacion para mobile en ionic, implemetacion de nuevas caracteristicas. Tecnologias:  Hydrogen, TypeScript, Shopify, Ionic Capacitor, SCSS",
     },
     {
       company: "FinGuru",
@@ -75,7 +75,7 @@ export const RESUME_DATA = {
       start: "Marzo 2024",
       end: "Mayo 2024",
       description:
-        "Implemetacion de nuevas caracteristicas, trabajo en equipo. Tecnologias: React, TypeScript, Strapi",
+        "Implemetacion de nuevas caracteristicas, trabajo en equipo. Tecnologias: React, TypeScript, Strapi, SCSS",
     },
     {
       company: "Tranqui",
@@ -86,7 +86,7 @@ export const RESUME_DATA = {
       start: "Octubre 2023",
       end: "Actualidad",
       description:
-        "Creacion de app mobile,desarrollo de nuevas caracteristicas, mantenimiento de la aplicacion, trabajo en equipo. Tecnologias: React, TypeScript, Ionic, SCSS",
+        "Creacion de app mobile,desarrollo de nuevas caracteristicas, mantenimiento de la aplicacion, trabajo en equipo. Tecnologias: React, TypeScript, Ionic Capacitor, SCSS",
     }
     
   ],
@@ -96,25 +96,14 @@ export const RESUME_DATA = {
     "React/Next.js",
     "Node.js",
     "CSS/SCSS",
+    "GitHub",
+    "C++",
+    "Python",
+    "Java",
+    "Ionic",
+    "Capacitor",
   ],
-  projects: [
-    {
-      title: "Tranqui",
-      techStack: [
-        "Side Project",
-        "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
-        "WebRTC",
-      ],
-      description: "Herramienta para la prevencion del suicidio",
-      logo: ConsultlyLogo,
-      link: {
-        label: "tranqui.mdp.edu.ar",
-        href: "https://tranqui.mdp.edu.ar/",
-      },
-    },
+  
    
-  ],
+
 } as const;
