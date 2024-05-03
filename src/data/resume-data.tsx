@@ -58,7 +58,7 @@ export const RESUME_DATA = {
     {
       company: "FinGuru",
       link: "http://cursos-staging.fin.guru/es",
-      badges: ["Remote"],
+      badges: ["Remoto"],
       title: "Junior Full Stack Developer",
       logo: MonitoLogo,
       start: "Marzo 2024",
@@ -69,7 +69,7 @@ export const RESUME_DATA = {
     {
       company: "TapWise",
       link: "https://tapwise.tdm.ar/",
-      badges: ["Remote"],
+      badges: ["Remoto"],
       title: "Junior Full Stack Developer",
       logo: ParabolLogo,
       start: "Marzo 2024",
@@ -77,6 +77,17 @@ export const RESUME_DATA = {
       description:
         "Creacion de tienda con Hydrogen , aplicacion para mobile en ionic, implemetacion de nuevas caracteristicas. Tecnologias:  Hydrogen, TypeScript, Shopify, Ionic",
     },
+    {
+      company: "Tranqui",
+      link: "https://tranqui.mdp.edu.ar/",
+      badges: ["Presencial"],
+      title: "Junior Frontend Developer",
+      logo: ConsultlyLogo,
+      start: "Octubre 2023",
+      end: "Actualidad",
+      description:
+        "Creacion de app mobile,desarrollo de nuevas caracteristicas, mantenimiento de la aplicacion, trabajo en equipo. Tecnologias: React, TypeScript, Ionic",
+    }
     
   ],
   skills: [
