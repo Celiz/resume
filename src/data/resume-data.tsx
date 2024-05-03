@@ -78,7 +78,7 @@ export const RESUME_DATA = {
         "Implementación de nuevas características, trabajo en equipo. Tecnologías: React, TypeScript, Strapi, SCSS",
     },
     {
-      company: "DY/DX BOT",
+      company: "dydx bot",
       link: "",
       badges: ["Remoto"],
       title: "Junior Backend Developer",
