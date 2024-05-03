@@ -85,8 +85,17 @@ export const RESUME_DATA = {
       logo: ConsultlyLogo,
       start: "Octubre 2023",
       end: "Actualidad",
-      description:
-        "Creacion de app mobile,desarrollo de nuevas caracteristicas, mantenimiento de la aplicacion, trabajo en equipo. Tecnologias: React, TypeScript, Ionic Capacitor, SCSS",
+      description:"Creacion de app mobile,desarrollo de nuevas caracteristicas, mantenimiento de la aplicacion, trabajo en equipo. Tecnologias: React, TypeScript, Ionic, SCSS",
+    },
+    {
+      company: "DY/DX BOT",
+      link: "",
+      badges: ["Remoto"],
+      title: "Junior Backend Developer",
+      logo: ConsultlyLogo,
+      start: "Febrero 2024",
+      end: "Marzo 2024",
+      description:"Bot de uso interno que se encargaba de arbitrar tasas de interés de diferentes protocolos DeFi en redes EVM y Cosmos. Tecnologias: Fastify, Ethers.js v5 y v6, Smart contracts (EVM y Cosmos)",
     }
     
   ],
@@ -102,6 +111,9 @@ export const RESUME_DATA = {
     "Java",
     "Ionic",
     "Capacitor",
+    "Fastify",
+    "Ethers.js",
+    "Smart contracts",
   ],
   
    
