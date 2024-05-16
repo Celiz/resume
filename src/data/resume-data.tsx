@@ -49,7 +49,7 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Escuela de Educacion Secundaria Tecnica Nº5 Amancio Williams",
-      degree: "Tecinico en Informatica Personal y Profesional",
+      degree: "Técnico en Informática Personal y Profesional",
       start: "2018",
       end: "2024",
     },
@@ -64,7 +64,7 @@ export const RESUME_DATA = {
       start: "Marzo 2024",
       end: "Actualidad",
       description:
-        "Creacion de tienda con Hydrogen , aplicacion para mobile en ionic, implemetacion de nuevas caracteristicas. Tecnologias:  Hydrogen, TypeScript, Shopify, Ionic Capacitor, SCSS",
+        "Creación de tienda con Hydrogen , aplicación para mobile en ionic, implementación de nuevas características. Tecnologías:  Hydrogen, TypeScript, Shopify, Ionic Capacitor, SCSS",
     },
     {
       company: "FinGuru",
@@ -75,17 +75,17 @@ export const RESUME_DATA = {
       start: "Marzo 2024",
       end: "Mayo 2024",
       description:
-        "Implemetacion de nuevas caracteristicas, trabajo en equipo. Tecnologias: React, TypeScript, Strapi, SCSS",
+        "Implementación de nuevas características, trabajo en equipo. Tecnologías: React, TypeScript, Strapi, SCSS",
     },
     {
-      company: "DY/DX BOT",
+      company: "dydx bot",
       link: "",
       badges: ["Remoto"],
       title: "Junior Backend Developer",
       logo: ConsultlyLogo,
       start: "Febrero 2024",
       end: "Marzo 2024",
-      description:"Bot de uso interno que se encargaba de arbitrar tasas de interés de diferentes protocolos DeFi en redes EVM y Cosmos. Tecnologias: Fastify, Ethers.js v5 y v6, Smart contracts (EVM y Cosmos)",
+      description:"Bot de uso interno que se encargaba de arbitrar tasas de interés de diferentes protocolos DeFi en redes EVM y Cosmos. Tecnologías: Fastify, Ethers.js v5 y v6, Smart contracts (EVM y Cosmos)",
     },
     {
       company: "Tranqui",
@@ -95,7 +95,7 @@ export const RESUME_DATA = {
       logo: ConsultlyLogo,
       start: "Octubre 2023",
       end: "Actualidad",
-      description:"Creacion de app mobile,desarrollo de nuevas caracteristicas, mantenimiento de la aplicacion, trabajo en equipo. Tecnologias: React, TypeScript, Ionic, SCSS",
+      description:"Creación de app mobile,desarrollo de nuevas características, mantenimiento de la aplicación, trabajo en equipo. Tecnologías: React, TypeScript, Ionic, SCSS",
     },
     
   ],
