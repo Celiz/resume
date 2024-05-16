@@ -56,8 +56,8 @@ export const RESUME_DATA = {
   ],
   work: [
     {
-      company: "TapWise",
-      link: "https://tapwise.tdm.ar/",
+      company: "TapWise (proyecto en curso)",
+      link: "",
       badges: ["Remoto"],
       title: "Junior Full Stack Developer",
       logo: ParabolLogo,
